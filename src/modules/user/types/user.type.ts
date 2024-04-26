@@ -1,0 +1,1 @@
+export type TuserFindQuery = { mobile: string } | { email: string } | { username: string };
